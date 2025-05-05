@@ -7,6 +7,8 @@ docsum.py is a command-line tool that uses meta's llama to generate concise summ
 ## How to use:
 Download the python file and install all the libraries provided in requirements.txt
 
+You will also need to go to groq.com and create an account and API key
+
 After that, run the python code in the terminal by typing 
 
 ```bash
