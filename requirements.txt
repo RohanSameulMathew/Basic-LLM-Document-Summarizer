@@ -1,0 +1,11 @@
+os
+groq
+dotenv
+argparse
+sys 
+pathlib 
+pymupdf
+base64
+mimetypes
+requests
+bs4
